@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         lv = (ListView) findViewById(R.id.lv);
         getInfo();
-
+//sssss
     }
 
     private void getInfo() {
